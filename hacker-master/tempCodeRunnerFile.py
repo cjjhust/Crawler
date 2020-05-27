@@ -1,0 +1,1 @@
+sniff(iface=interface, prn=sniffProbe)
